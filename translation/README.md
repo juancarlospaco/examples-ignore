@@ -8,8 +8,9 @@
 
 # Observation
 
-As far as I know is the only fully compile-time translation library,
-imagine if your server shows translated text a million times per hour,
+As far as I know is the only fully compile-time translation library that there is.
+
+Imagine if your server shows translated text a million times per hour,
 therefore you are doing a million translations per hour at run-time,
 this library does it at compile-time instead with zero cost at run-time.
 
