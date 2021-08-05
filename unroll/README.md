@@ -2,6 +2,9 @@
 
 - Compile-time unrolled for loops with zero-overhead at run-time.
 - The idea is that you "unroll" a loop at compile-time, making it literally dissapear into a linear flat code.
+- Ideally you do this with computationally expensive slow loops, 
+  in the example I done it with a simple string op because is not needed to explain the concept anyway.
+
 
 # Use
 
