@@ -2,7 +2,7 @@
 
 - Translate Bohemian Rhapsody from English to Spanish.
 - Translate arbitrary text strings at compile-time without cost at run-time.
-- Translate from 1 simple INI file, no additional tools required.
+- [Translate from 1 simple INI file, no additional tools required.](https://github.com/juancarlospaco/examples-ignore/blob/nim/translation/translations.cfg)
 - Example is meant for Frontend web, but can be used for Backend without changes too.
 
 
